@@ -1,0 +1,16 @@
+[
+    {
+        "id_producto": "ECO-001",
+        "nombre": "Termostato Inteligente",
+        "precio": "$120.50",
+        "stock": 15
+    },
+    {
+        "id_producto": "SOL-101",
+        "nombre": "Panel Monocristalino Pro",
+        "precio": "$450.00",
+        "stock": 8,
+        "eficiencia": "22.5%",
+        "potencia": "550W"
+    }
+]
